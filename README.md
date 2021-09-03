@@ -9,3 +9,5 @@ Libraries: justpy, pandas, datetime, pytz, matplotlib,
 
 ![image](https://user-images.githubusercontent.com/53841303/132012939-078aeafe-a740-4930-a0e2-4408a1010c60.png)
 
+![image](https://user-images.githubusercontent.com/53841303/132013151-032681c9-36c7-4979-b22f-e33cb59df8ec.png)
+
