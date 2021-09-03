@@ -15,3 +15,5 @@ Libraries: justpy, pandas, datetime, pytz, matplotlib,
 
 ![image](https://user-images.githubusercontent.com/53841303/132013381-1ebfd4b5-e3ff-45b7-a77f-2fc9cb28e91a.png)
 
+![image](https://user-images.githubusercontent.com/53841303/132013543-a00d0fa0-1271-428a-b29e-29fa916a31dc.png)
+
